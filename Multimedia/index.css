@@ -1,0 +1,78 @@
+body{
+    font-family: sans-serif;
+    margin: 0%;
+    border-radius: 20px;
+}
+
+header{
+    display:flex;
+    height: 70px;
+    justify-content: space-between;
+    background-color: darkgray;
+    align-items: center;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+
+.multimedia{
+    display:flex;
+    align-items: center;
+}
+
+.cuerpo{
+    background-color:ghostwhite;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+
+.footer{
+    margin: 40px;
+    background-color:darkgray;
+    align-items: center;
+    display: flex;
+    padding: 10px;
+    
+    justify-content: space-between;
+    border-radius: 20px;
+}
+
+a{
+    text-decoration: none;
+    margin: 40px;
+}
+
+nav a{
+    padding-right:10px ;
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin: 40px;
+}
+P{
+    font-family: sans-serif;
+    margin: 40px;
+}
+li{
+    margin: 40px;
+}
+
+img{
+    height: 150px;
+    margin: 40px;
+}
+a .animaker{
+text-decoration: line-through;
+color: blueviolet;
+}
+
+.planeta{
+    height: 100px;
+    align-items: center;
+}
+nav{
+    border-radius: 20px;
+}
